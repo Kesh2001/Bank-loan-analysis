@@ -25,11 +25,11 @@ The final dashboard includes several key visuals and metrics:
 ![Summary Page](https://github.com/user-attachments/assets/9ff98c75-bf93-4f0e-9363-2f630b8dd3cd)
 
 #### Key Performance Indicators (KPIs)
-- Total Loan Applications: Calculated the total number of loan applications received during a specified period. Monitored Month-to-Date (MTD) Loan Applications and tracked changes Month-over-Month (MoM).
-- Total Funded Amount: Understanding the total amount of funds disbursed as loans. Monitored MTD Total Funded Amount and analyzed MoM changes.
-- Total Amount Received: Tracked the total amount received from borrowers to assess the bank's cash flow and loan repayment. Analyzed MTD Total Amount Received and observed MoM changes.
-- Average Interest Rate: Calculated the average interest rate across all loans, MTD, and monitored MoM variations.
-- Average Debt-to-Income Ratio (DTI): Evaluated the average DTI for borrowers to gauge their financial health. Computed the average DTI for all loans, MTD, and tracked MoM fluctuations.
+- **Total Loan Applications:** Calculated the total number of loan applications received during a specified period. Monitored Month-to-Date (MTD) Loan Applications and tracked changes Month-over-Month (MoM).
+- **Total Funded Amount:** Understanding the total amount of funds disbursed as loans. Monitored MTD Total Funded Amount and analyzed MoM changes.
+- **Total Amount Received:** Tracked the total amount received from borrowers to assess the bank's cash flow and loan repayment. Analyzed MTD Total Amount Received and observed MoM changes.
+- **Average Interest Rate:** Calculated the average interest rate across all loans, MTD, and monitored MoM variations.
+- **Average Debt-to-Income Ratio (DTI):** Evaluated the average DTI for borrowers to gauge their financial health. Computed the average DTI for all loans, MTD, and tracked MoM fluctuations.
 
 #### Good Loan vs Bad Loan KPIs
 Application percentages, number of applications, funded amounts and total received amounts were visualized for good and bad loans.
@@ -38,12 +38,12 @@ Application percentages, number of applications, funded amounts and total receiv
 ![Overview Page](https://github.com/user-attachments/assets/3bb83d93-f198-4486-8f44-22802ed606b7)
 
 #### Charts 
-- Monthly Trends by Issue Date (Line Chart): Identified seasonality and long-term trends in lending activities.
-- Regional Analysis by State (Filled Map): Identified regions with significant lending activity and assessed regional disparities.
-- Loan Term Analysis (Donut Chart): Provided insights into the distribution of loans across various term lengths.
-- Employee Length Analysis (Bar Chart): Showed how lending metrics are distributed among borrowers with different employment lengths.
-- Loan Purpose Breakdown (Bar Chart): Provided a visual breakdown of loan metrics based on the stated purposes of loans.
-- Home Ownership Analysis (Tree Map): Offered a hierarchical view of how home ownership impacts loan applications and disbursements.
+- **Monthly Trends by Issue Date (Line Chart):** Identified seasonality and long-term trends in lending activities.
+- **Regional Analysis by State (Filled Map):** Identified regions with significant lending activity and assessed regional disparities.
+- **Loan Term Analysis (Donut Chart):** Provided insights into the distribution of loans across various term lengths.
+- **Employee Length Analysis (Bar Chart):** Showed how lending metrics are distributed among borrowers with different employment lengths.
+- **Loan Purpose Breakdown (Bar Chart):** Provided a visual breakdown of loan metrics based on the stated purposes of loans.
+- **Home Ownership Analysis (Tree Map):** Offered a hierarchical view of how home ownership impacts loan applications and disbursements.
 
 ### Dashboard 3: Details
 ![Details Page](https://github.com/user-attachments/assets/18100ead-726f-46ad-8d41-c21eeac3798d)
